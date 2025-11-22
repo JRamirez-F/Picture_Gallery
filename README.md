@@ -7,11 +7,11 @@ The breathtaking simplicity of the most beautiful complexity.
 Thanks to the universities, research centers, and PIs who gave me the opportunity to explore the substance underlying perception, action, fear, love, and thought through a microscope. 
 
 Images in this gallery have been acquired using equipment and funding from the following institutions: 
-- Universidad Complutense de Madrid (Magdalena Torres and José Sánchez-Prieto Lab)
-- University of Maryland, Baltimore (Sandra Jurado Lab)
-- Cajal Institute, Madrid (CSIC) (Gertrudis Perea Lab)
-- Unité de Neurobiologie des Canaux Ioniques et de la Synapse, Aix-Marseille Université-INSERM (Oussama El Far Lab)
-- Institut de Neurosciences de la Timone, Aix-Marseille Université-CNRS (Nicolas Wanaverbecq lab)
+- Universidad Complutense de Madrid (Magdalena Torres and José Sánchez-Prieto [Lab](https://produccioncientifica.ucm.es/grupos/5253/detalle))
+- University of Maryland, Baltimore (Sandra Jurado [Lab](https://www.juradolab.com/))
+- Cajal Institute, Madrid (CSIC) (Gertrudis Perea [Lab](https://cajal.csic.es/en/neuroglial-networks/))
+- Unité de Neurobiologie des Canaux Ioniques et de la Synapse, Aix-Marseille Université-INSERM (Oussama El Far [Lab](https://sites.google.com/view/fm4b-lab/home))
+- Institut de Neurosciences de la Timone, Aix-Marseille Université-CNRS (Nicolas Wanaverbecq [Lab](https://www.int.univ-amu.fr/en/int-research/teams/spicci))
 
 ![Logos](images/logos.png)
 
