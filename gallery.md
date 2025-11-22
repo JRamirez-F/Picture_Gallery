@@ -107,11 +107,11 @@
     <sub>Motor neurons in the Ventral  Hord of the Spinal Cord. Mouse model ChAT-tdTomato</sub>
   </td>
   <td align="center" width="220">
-    <h4>Rombencephalon/Locus Coeruleus</h4>
+    <h4>The Olfactory Brain</h4>
     <a href="images/.png">
       <img src="images/.png" width="220" />
     </a><br>
-    <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647</sub>
+    <sub>Main connections of the Olfactory Pathway revealed by Light-sheet microscopy after AAV9-hSyn-EGFP injection in the Olfactory Bulb in a ChaT-tdTomato mouse</sub>
   </td>
 </tr>
 </table>
