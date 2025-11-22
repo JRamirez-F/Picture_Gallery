@@ -137,5 +137,13 @@
     </a><br>
     <sub>Electron microscopy of a Synapse in cultured Cerebellar Granule Neurons. Thanks to David Bartolomé-Martín</sub>
   </td>
+  </td>
+    <td align="center" width="220">
+    <h4>Prefrontal Cortex</h4>
+    <a href="images/Prefr.png">
+      <img src="images/Prefr.png" width="220" />
+    </a><br>
+    <sub>Kv2.1 (green) labels pyramidal neurons of Anterior Cingulate/Prelimbic Cortex. Anlyrin G in magenta</sub>
+  </td>
 </tr>
 </table>
