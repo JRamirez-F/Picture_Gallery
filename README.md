@@ -1,10 +1,10 @@
 # Picture Gallery 
 
-In this section, you can see some pictures of living matter, collected over the years using microscopes.
+In this section, you can see some pictures of living matter in thre nervous system, collected over the years using microscopes.
 
-The breathtaking simplicity and the most beautiful complexity.
+The breathtaking simplicity of the most beautiful complexity.
 
-Thanks to the universities, research centers, and PIs who gave me the opportunity to see the world through a microscope. 
+Thanks to the universities, research centers, and PIs who gave me the opportunity to explore the substance underlying perception, action, fear, love, and thought through a microscope. 
 
 Images in this gallery have been acquired using equipment and funding from the following institutions: 
 - Universidad Complutense de Madrid (Magdalena Torres and José Sánchez-Prieto Lab)
