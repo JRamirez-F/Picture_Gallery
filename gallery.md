@@ -23,6 +23,13 @@
       </a><br>
       <span style="font-size:12px;">Longitudinal section of the spinal cord showing CSF-cNs (Orange hot) around the central canal (Blue, DAPI).</span>
     </td>
+  <td align="center" width="500">
+      <b style="font-size:18px;">CerebroSpinal Fluid Contacting Neurons</b><br>
+      <a href="images/image_CSF-cns.png">
+        <img src="images/image_CSF-cns.png" width="500" />
+      </a><br>
+      <span style="font-size:12px;">Longitudinal section of the spinal cord showing CSF-cNs (Orange hot) around the central canal (Blue, DAPI).</span>
+    </td>
   </tr>
 </table>
 
