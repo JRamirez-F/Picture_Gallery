@@ -130,11 +130,20 @@
 
   <!-- Card 15 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h3>The Olfactory Brain</h3>
+    <h3>The Olfactory Brain (animated)</h3>
     <a href="images/Olf.gif">
       <img src="images/Olf_tn.png" style="width:100%; max-width:220px;" />
     </a><br>
     <sub>Main connections of the Olfactory Pathway revealed by Light-sheet microscopy after AAV9-hSyn-EGFP injection in the Olfactory Bulb in a ChaT-tdTomato mouse (animated .gif, may be slow)</sub>
+  </div>
+
+<!-- Card 16 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Astrocytic Calcium Waves (animated)</h3>
+    <a href="images/ast.gif">
+      <img src="images/ast.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin puff. Thaks to Candela González-Arias</sub>
   </div>
 
 </div>
