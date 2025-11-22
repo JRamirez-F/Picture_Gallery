@@ -30,6 +30,13 @@
       </a><br>
       <span style="font-size:12px;">Cerebellar section showing Purkinje Neurons.</span>
     </td>
+  <td align="center" width="500">
+      <b style="font-size:18px;">Purkinje Neurons detected with anti Calbindin-D28K IHF</b><br>
+      <a href="images/Purkinje.png">
+        <img src="images/Purkinje.png" width="500" />
+      </a><br>
+      <span style="font-size:12px;">Cerebellar section showing Purkinje Neurons.</span>
+    </td>
   </tr>
 </table>
 
