@@ -68,6 +68,13 @@
     </a><br>
     <sub>Thorny excrescences and proximal apical dendrites of a CA3 pyramidal neuron</sub>
   </td>
+  <td align="center" width="220">
+    <h4>Rombencephalon/Locus Coeruleus</h4>
+    <a href="images/inj.png">
+      <img src="images/inj.png" width="220" />
+    </a><br>
+    <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647</sub>
+  </td>
 </tr>
 </table>
 
