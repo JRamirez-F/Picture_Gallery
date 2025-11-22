@@ -145,6 +145,24 @@
     </a><br>
     <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin puff. Thaks to Candela González-Arias</sub>
   </div>
+  
+<!-- Card 17 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>CA1 Axonal Initial Segments</h3>
+    <a href="images/gaba2.png">
+      <img src="images/gaba2.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>GABA-a2 immunodecorates the AIS of CA1 Pyramidal neurons</sub>
+  </div>
+
+<!-- Card 18 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Synapses</h3>
+    <a href="images/sps.png">
+      <img src="images/sps.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Electron microscopy of a Synapse in cultured Cerebellar Granule Neurons</sub>
+  </div>
 
 </div>
  
