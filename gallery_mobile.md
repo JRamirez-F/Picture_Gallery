@@ -161,7 +161,7 @@
     <a href="images/sps.png">
       <img src="images/sps.png" style="width:100%; max-width:220px;" />
     </a><br>
-    <sub>Electron microscopy of a Synapse in cultured Cerebellar Granule Neurons</sub>
+    <sub>Electron microscopy of a Synapse in cultured Cerebellar Granule Neurons. Collaboration with David Bartolomé-Martín</sub>
   </div>
 
 </div>
