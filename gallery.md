@@ -109,9 +109,9 @@
   <td align="center" width="220">
     <h4>The Olfactory Brain</h4>
     <a href="images/Olf.gif">
-      <img src="images/Olf.gif" width="220" />
+      <img src="images/Olf_tn.png" width="220" />
     </a><br>
-    <sub>Main connections of the Olfactory Pathway revealed by Light-sheet microscopy after AAV9-hSyn-EGFP injection in the Olfactory Bulb in a ChaT-tdTomato mouse</sub>
+    <sub>Main connections of the Olfactory Pathway revealed by Light-sheet microscopy after AAV9-hSyn-EGFP injection in the Olfactory Bulb in a ChaT-tdTomato mouse (animated .gif, may be slow)</sub>
   </td>
 </tr>
 </table>
