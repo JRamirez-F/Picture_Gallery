@@ -28,7 +28,7 @@
     <a href="images/Purkinje.png">
       <img src="images/Purkinje.png" width="220" />
     </a><br>
-    <sub>Cerebellar section showing Purkinje Neurons.</sub>
+    <sub>Cerebellar section showing Purkinje Neurons.IHF Anti-Calbindin-D28K</sub>
   </td>
   <td align="center" width="220">
     <h4>CA1 pyramidal neurons</h4>
