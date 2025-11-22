@@ -13,7 +13,9 @@ Images in this gallery have been acquired using equipment and funding from the f
 - Unité de Neurobiologie des Canaux Ioniques et de la Synapse, Aix-Marseille Université-INSERM 
 - Institut de Neurosciences de la Timone, Aix-Marseille Université-CNRS 
 
-[**Go to Image Gallery**](https://github.com/JRamirez-F/Picture_Gallery/blob/main/gallery.md)
+[**Go to Image Gallery for PC 💻**](https://github.com/JRamirez-F/Picture_Gallery/blob/main/gallery.md)
+
+[**Go to Image Gallery for Smartphone 📱**](https://github.com/JRamirez-F/Picture_Gallery/blob/main/gallery_mobile.md)
 
 ![Rombencephalon](images/Labels.png)
 
