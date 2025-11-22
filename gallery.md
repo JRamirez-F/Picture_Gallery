@@ -73,7 +73,7 @@
     <a href="images/inj.png">
       <img src="images/inj.png" width="220" />
     </a><br>
-    <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647. Courtesy of Elysa Crozat</sub>
+    <sub>AAV-injection (Br: ~ -5.40). Locus Coeruleus (magenta) labelled with Anti-TH. Thaks to Elysa Crozat</sub>
   </td>
 </tr>
 
