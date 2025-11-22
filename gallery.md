@@ -121,7 +121,7 @@
     <a href="images/ast.gif">
       <img src="images/ast.png" width="220" />
     </a><br>
-    <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin</sub>
+    <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin. Thaks to Candela González-Arias</sub>
   </td>
  
 </tr>
