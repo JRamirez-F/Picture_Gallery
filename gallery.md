@@ -31,11 +31,11 @@
       <span style="font-size:12px;">Cerebellar section showing Purkinje Neurons.</span>
     </td>
   <td align="center" width="500">
-      <b style="font-size:18px;">Purkinje Neurons detected with anti Calbindin-D28K IHF</b><br>
-      <a href="images/Purkinje.png">
-        <img src="images/Purkinje.png" width="500" />
+      <b style="font-size:18px;">CA1 pyramidal neurons</b><br>
+      <a href="images/CA1.png">
+        <img src="images/CA1.png" width="500" />
       </a><br>
-      <span style="font-size:12px;">Cerebellar section showing Purkinje Neurons.</span>
+      <span style="font-size:12px;">Organotypic slice showing 2 CA1 neurons transfected after gene-gun transfection with a plasmid encoding for tdTomato</span>
     </td>
   </tr>
 </table>
