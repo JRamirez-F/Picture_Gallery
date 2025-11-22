@@ -131,7 +131,7 @@
     <sub>GABA-a2 immunodecorates the AIS of CA1 Pyramidal neurons</sub>
   </td>
     <td align="center" width="220">
-    <h4>Synapse</h4>
+    <h4>Synapses</h4>
     <a href="images/sps.png">
       <img src="images/sps.png" width="220" />
     </a><br>
