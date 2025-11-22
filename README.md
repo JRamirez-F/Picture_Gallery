@@ -13,7 +13,7 @@ Images in this gallery have been acquired using equipment and funding from the f
 - Unité de Neurobiologie des Canaux Ioniques et de la Synapse, Aix-Marseille Université-INSERM (Oussama El Far Lab)
 - Institut de Neurosciences de la Timone, Aix-Marseille Université-CNRS (Nicolas Wanaverbecq lab)
 
-![Logos](images/l.png)
+![Logos](images/logos.png)
 
 
 [**Go to Image Gallery for PC 💻**](https://github.com/JRamirez-F/Picture_Gallery/blob/main/gallery.md)
