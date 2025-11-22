@@ -73,7 +73,7 @@
     <a href="images/inj.png">
       <img src="images/inj.png" width="220" />
     </a><br>
-    <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647</sub>
+    <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647. Courtesy of Elysa Crozat</sub>
   </td>
 </tr>
 
@@ -86,11 +86,11 @@
     <sub>AIS of PV+INs (Cyan) labelled with AnkyrinG (Magenta) and Kv1.1 (Green). Triple IHF</sub>
   </td>
   <td align="center" width="220">
-    <h4>Active cells</h4>
-    <a href="images/cFos.png">
-      <img src="images/cFos.png" width="220" />
+    <h4>LGI1 in Dendritic Complexes</h4>
+    <a href="images/dend_LGI1.png">
+      <img src="images/dend_LGI1.png" width="220" />
     </a><br>
-    <sub>cFos staining in the mouse hippocampus. LUT Red Hot</sub>
+    <sub>LGI1 (magenta) in dendritic spines of a CA3 Pyramidal neuron (Green). Single Cell Electroporation (SCE) of a CA3 Pyramidal neuron with a plasmid expressing LGI1 and GFP. SCE by Johanna Extrémet</sub>
   </td>
   <td align="center" width="220">
     <h4>Dopaminergic Neurons in SNC</h4>
