@@ -16,12 +16,12 @@
       </a><br>
       <span style="font-size:12px;">Cholinergic resident fibers of the spinal cord (Magenta) seem to parallel the corticospinal tract (Green) labelled by AAV9-hSyn-GFP in the Motor Cortex).</span>
     </td>
-  <td align="center" width="300">
-      <b style="font-size:18px;">Example Photo 3</b><br>
-      <a href="images/photo3.jpg">
-        <img src="images/photo3.jpg" width="300" />
+  <td align="center" width="500">
+      <b style="font-size:18px;">CerebroSpinal Fluid Contacting Neurons</b><br>
+      <a href="images/image_CSF-cns.png">
+        <img src="images/image_CSF-cns.png" width="500" />
       </a><br>
-      <span style="font-size:12px;">Another example with description below the image.</span>
+      <span style="font-size:12px;">Longitudinal section of the spinal cord showing CSF-cNs (Orange hot) around the central canal (Blue, DAPI).</span>
     </td>
   </tr>
 </table>
