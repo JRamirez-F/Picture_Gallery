@@ -4,7 +4,7 @@
 
   <!-- Card 1 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Periaqueductal gray</h4>
+    <h3>Periaqueductal gray</h3>
     <a href="images/Image_PAG.png">
       <img src="images/Image_PAG.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -13,7 +13,7 @@
 
   <!-- Card 2 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>2 Lanes highway in the spinal cord</h4>
+    <h3>2 Lanes highway in the spinal cord</h3>
     <a href="images/Image_fibers.png">
       <img src="images/Image_fibers.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -22,7 +22,7 @@
 
   <!-- Card 3 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>CerebroSpinal Fluid Contacting Neurons</h4>
+    <h3>CerebroSpinal Fluid Contacting Neurons</h3>
     <a href="images/image_CSF-cns.png">
       <img src="images/image_CSF-cns.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -31,7 +31,7 @@
 
   <!-- Card 4 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Purkinje Neurons</h4>
+    <h3>Purkinje Neurons</h3>
     <a href="images/Purkinje.png">
       <img src="images/Purkinje.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -40,7 +40,7 @@
 
   <!-- Card 5 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>CA1 pyramidal neurons</h4>
+    <h3>CA1 pyramidal neurons</h3>
     <a href="images/CA1.png">
       <img src="images/CA1.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -49,7 +49,7 @@
 
   <!-- Card 6 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Thoracic Spinal Cord Slice</h4>
+    <h3>Thoracic Spinal Cord Slice</h3>
     <a href="images/Clear_slice.png">
       <img src="images/Clear_slice.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -58,7 +58,7 @@
 
   <!-- Card 7 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Active cells</h4>
+    <h3>Active cells</h3>
     <a href="images/cFos.png">
       <img src="images/cFos.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -67,7 +67,7 @@
 
   <!-- Card 8 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Dopaminergic Neurons in SNC</h4>
+    <h3>Dopaminergic Neurons in SNC</h3>
     <a href="images/SNC_DN.png">
       <img src="images/SNC_DN.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -76,7 +76,7 @@
 
   <!-- Card 9 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Dendritic Rainbow</h4>
+    <h3>Dendritic Rainbow</h3>
     <a href="images/dend_rb.png">
       <img src="images/dend_rb.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -85,7 +85,7 @@
 
   <!-- Card 10 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Rombencephalon/Locus Coeruleus</h4>
+    <h3>Rombencephalon/Locus Coeruleus</h3>
     <a href="images/inj.png">
       <img src="images/inj.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -94,7 +94,7 @@
 
   <!-- Card 11 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>PV + INs Axonal Initial Segment</h4>
+    <h3>PV + INs Axonal Initial Segment</h3>
     <a href="images/INs.png">
       <img src="images/INs.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -103,7 +103,7 @@
 
   <!-- Card 12 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>LGI1 in Dendritic Complexes</h4>
+    <h3>LGI1 in Dendritic Complexes</h3>
     <a href="images/dend_LGI1.png">
       <img src="images/dend_LGI1.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -112,7 +112,7 @@
 
   <!-- Card 13 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Substantia Nigra, Midbrain</h4>
+    <h3>Substantia Nigra, Midbrain</h3>
     <a href="images/SN_WB.png">
       <img src="images/SN_WB.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -121,7 +121,7 @@
 
   <!-- Card 14 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>Motor neurons</h4>
+    <h3>Motor neurons</h3>
     <a href="images/MNs.png">
       <img src="images/MNs.png" style="width:100%; max-width:220px;" />
     </a><br>
@@ -130,7 +130,7 @@
 
   <!-- Card 15 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h4>The Olfactory Brain</h4>
+    <h3>The Olfactory Brain</h3>
     <a href="images/Olf.gif">
       <img src="images/Olf_tn.png" style="width:100%; max-width:220px;" />
     </a><br>
