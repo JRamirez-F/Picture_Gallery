@@ -128,7 +128,7 @@
     <a href="images/gaba2.png">
       <img src="images/gaba2.png" width="220" />
     </a><br>
-    <sub>GABA-a2 immunodecorates the AIS of CA1 Pyramidal neurons</sub>
+    <sub>GABA-a2 (green) immunodecorates the AIS of CA1 Pyramidal neurons (magenta)</sub>
   </td>
     <td align="center" width="220">
     <h4>Synapses</h4>
