@@ -59,7 +59,7 @@
     <a href="images/SNC_DN.png">
       <img src="images/SNC_DN.png" width="220" />
     </a><br>
-    <sub>DA neurons in SNC revealed with anti Kv2.1 (Greeen). Magenta is Ankyring-G and Blue is DAPI. non-DA Neurons nuclei eliminated via SAMJ</sub>
+    <sub>DA neurons in SNC revealed with anti Kv2.1 (Greeen). Ankyring-G (magenta) and DAPI (blue)</sub>
   </td>
   <td align="center" width="220">
     <h4>Dendritic Rainbow</h4>
