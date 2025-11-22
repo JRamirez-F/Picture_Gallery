@@ -7,14 +7,14 @@
     <a href="images/Image_PAG.png">
       <img src="images/Image_PAG.png" width="220" />
     </a><br>
-    <sub>PAG Neurons infected with AAV-hSyn-GFP</sub>
+    <h6>PAG Neurons infected with AAV-hSyn-GFP</h6>
   </td>
   <td align="center" width="220">
     <h4>2 Lanes highway in the spinal cord</h4>
     <a href="images/Image_fibers.png">
       <img src="images/Image_fibers.png" width="220" />
     </a><br>
-    <sub>Cholinergic resident fibers (Magenta) parallel corticospinal tract (Green) labelled by AAV9-hSyn-GFP.</sub>
+    <sub>Cholinergic fibers (Magenta) parallel the corticospinal tract (Green) in the Spinal Cord.</sub>
   </td>
   <td align="center" width="220">
     <h4>CerebroSpinal Fluid Contacting Neurons</h4>
