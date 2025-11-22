@@ -100,11 +100,11 @@
     <sub>Middbrain Slice showing SN in Green by anti-Tyrosine Hydroxilase labeling. In collaboration with Jean-Marc Goaillard</sub>
   </td>
   <td align="center" width="220">
-    <h4>Dendritic Rainbow</h4>
-    <a href="images/.png">
-      <img src="images/" width="220" />
+    <h4>Motor neurons</h4>
+    <a href="images/MNs.png">
+      <img src="images/MNs.png" width="220" />
     </a><br>
-    <sub>Thorny excrescences and proximal apical dendrites of a CA3 pyramidal neuron</sub>
+    <sub>Motor neurons in the Ventral  Hord of the Spinal Cord. Mouse model ChAT-tdTomato</sub>
   </td>
   <td align="center" width="220">
     <h4>Rombencephalon/Locus Coeruleus</h4>
