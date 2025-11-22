@@ -52,7 +52,14 @@
     <a href="images/cFos.png">
       <img src="images/cFos.png" width="220" />
     </a><br>
-    <sub>cFos staining in the mouse hippocampus.</sub>
+    <sub>cFos staining in the mouse hippocampus. LUT Red Hot</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Dopaminergic Neurons in SNC</h4>
+    <a href="images/SNC_DN.png">
+      <img src="images/SNC_DN.png" width="220" />
+    </a><br>
+    <sub>DA neurons in SNC revealed with anti Kv2.1 (Greeen). Magenta is Ankyring-G and Blue is DAPI. non-DA Neurons nuclei eliminated via SAMJ</sub>
   </td>
 </tr>
 </table>
