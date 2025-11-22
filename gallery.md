@@ -76,5 +76,43 @@
     <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647</sub>
   </td>
 </tr>
+
+<tr>
+  <td align="center" width="220">
+    <h4>PV + INs Axonal Initial Segment</h4>
+    <a href="images/INs.png">
+      <img src="images/INs.png" width="220" />
+    </a><br>
+    <sub>AIS of PV+INs (Cyan) labelled with AnkyrinG (Magenta) and Kv1.1 (Green). Triple IHF</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Active cells</h4>
+    <a href="images/cFos.png">
+      <img src="images/cFos.png" width="220" />
+    </a><br>
+    <sub>cFos staining in the mouse hippocampus. LUT Red Hot</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Dopaminergic Neurons in SNC</h4>
+    <a href="images/SNC_DN.png">
+      <img src="images/SNC_DN.png" width="220" />
+    </a><br>
+    <sub>DA neurons in SNC revealed with anti Kv2.1 (Greeen). Magenta is Ankyring-G and Blue is DAPI. non-DA Neurons nuclei eliminated via SAMJ</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Dendritic Rainbow</h4>
+    <a href="images/dend_rb.png">
+      <img src="images/dend_rb.png" width="220" />
+    </a><br>
+    <sub>Thorny excrescences and proximal apical dendrites of a CA3 pyramidal neuron</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Rombencephalon/Locus Coeruleus</h4>
+    <a href="images/inj.png">
+      <img src="images/inj.png" width="220" />
+    </a><br>
+    <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647</sub>
+  </td>
+</tr>
 </table>
 
