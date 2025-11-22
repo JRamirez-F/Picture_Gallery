@@ -1,42 +1,59 @@
 # Picture Gallery
 
 <table>
-  <tr>
-    <td align="center" width="500">
-      <b style="font-size:18px;">Periaqueductal gray</b><br>
-      <a href="images/Image_PAG.png">
-        <img src="images/Image_PAG.png" width="500" />
-      </a><br>
-      <span style="font-size:6px;">PAG Neurons inffected with AAV-hSyn-GFP</span>  
-    </td>
-  <td align="center" width="500">
-      <b style="font-size:18px;">2 Lanes highway in the spinal cord</b><br>
-      <a href="images/Image_fibers.png">
-        <img src="images/Image_fibers.png" width="500" />
-      </a><br>
-      <span style="font-size:12px;">Cholinergic resident fibers of the spinal cord (Magenta) seem to parallel the corticospinal tract (Green) labelled by AAV9-hSyn-GFP in the Motor Cortex).</span>
-    </td>
-  <td align="center" width="500">
-      <b style="font-size:18px;">CerebroSpinal Fluid Contacting Neurons</b><br>
-      <a href="images/image_CSF-cns.png">
-        <img src="images/image_CSF-cns.png" width="500" />
-      </a><br>
-      <span style="font-size:12px;">Longitudinal section of the spinal cord showing CSF-cNs (Orange hot) around the central canal (Blue, DAPI).</span>
-    </td>
-  <td align="center" width="500">
-      <b style="font-size:18px;">Purkinje Neurons detected with anti Calbindin-D28K IHF</b><br>
-      <a href="images/Purkinje.png">
-        <img src="images/Purkinje.png" width="500" />
-      </a><br>
-      <span style="font-size:12px;">Cerebellar section showing Purkinje Neurons.</span>
-    </td>
-  <td align="center" width="500">
-      <b style="font-size:18px;">CA1 pyramidal neurons</b><br>
-      <a href="images/CA1.png">
-        <img src="images/CA1.png" width="500" />
-      </a><br>
-      <span style="font-size:12px;">Organotypic slice showing 2 CA1 neurons transfected after gene-gun transfection with a plasmid encoding for tdTomato</span>
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="220">
+    <h4>Periaqueductal gray</h4>
+    <a href="images/Image_PAG.png">
+      <img src="images/Image_PAG.png" width="220" />
+    </a><br>
+    <sub>PAG Neurons infected with AAV-hSyn-GFP</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>2 Lanes highway in the spinal cord</h4>
+    <a href="images/Image_fibers.png">
+      <img src="images/Image_fibers.png" width="220" />
+    </a><br>
+    <sub>Cholinergic resident fibers (Magenta) parallel corticospinal tract (Green) labelled by AAV9-hSyn-GFP.</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>CerebroSpinal Fluid Contacting Neurons</h4>
+    <a href="images/image_CSF-cns.png">
+      <img src="images/image_CSF-cns.png" width="220" />
+    </a><br>
+    <sub>Longitudinal section of spinal cord showing CSF-cNs around the central canal.</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Purkinje Neurons</h4>
+    <a href="images/Purkinje.png">
+      <img src="images/Purkinje.png" width="220" />
+    </a><br>
+    <sub>Cerebellar section showing Purkinje Neurons.</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>CA1 pyramidal neurons</h4>
+    <a href="images/CA1.png">
+      <img src="images/CA1.png" width="220" />
+    </a><br>
+    <sub>Organotypic slice showing 2 CA1 neurons transfected with tdTomato.</sub>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="220">
+    <h4>Thoracic Spinal Cord Slice</h4>
+    <a href="images/Clear_slice.png">
+      <img src="images/Clear_slice.png" width="220" />
+    </a><br>
+    <sub>Cleared 400µm slice imaged with confocal microscope.</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Active cells</h4>
+    <a href="images/cFos.png">
+      <img src="images/cFos.png" width="220" />
+    </a><br>
+    <sub>cFos staining in the mouse hippocampus.</sub>
+  </td>
+</tr>
 </table>
 
