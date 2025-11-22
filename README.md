@@ -1,6 +1,6 @@
 # Picture Gallery 
 
-In this section, you can see some pictures of living matter in thre nervous system, collected over the years using microscopes.
+In this section, you can see some pictures of living matter in the nervous system, collected over the years using microscopes.
 
 The breathtaking simplicity of the most beautiful complexity.
 
