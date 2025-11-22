@@ -1,4 +1,4 @@
-# Picture Gallery
+# Pictures of the Nervious System
 
 <table>
 <tr>
