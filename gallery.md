@@ -93,23 +93,23 @@
     <sub>LGI1 (magenta) in dendritic spines of a CA3 Pyramidal neuron (Green). Single Cell Electroporation (SCE) of a CA3 Pyramidal neuron with a plasmid expressing LGI1 and GFP. SCE by Johanna Extrémet</sub>
   </td>
   <td align="center" width="220">
-    <h4>Dopaminergic Neurons in SNC</h4>
-    <a href="images/SNC_DN.png">
-      <img src="images/SNC_DN.png" width="220" />
+    <h4>Substantia Nigra, Midbrain</h4>
+    <a href="images/SN_WB.png">
+      <img src="images/SN_WB.png" width="220" />
     </a><br>
-    <sub>DA neurons in SNC revealed with anti Kv2.1 (Greeen). Magenta is Ankyring-G and Blue is DAPI. non-DA Neurons nuclei eliminated via SAMJ</sub>
+    <sub>Middbrain Slice showing SN in Green by anti-Tyrosine Hydroxilase labeling. In collaboration with Jean-Marc Goaillard</sub>
   </td>
   <td align="center" width="220">
     <h4>Dendritic Rainbow</h4>
-    <a href="images/dend_rb.png">
-      <img src="images/dend_rb.png" width="220" />
+    <a href="images/.png">
+      <img src="images/" width="220" />
     </a><br>
     <sub>Thorny excrescences and proximal apical dendrites of a CA3 pyramidal neuron</sub>
   </td>
   <td align="center" width="220">
     <h4>Rombencephalon/Locus Coeruleus</h4>
-    <a href="images/inj.png">
-      <img src="images/inj.png" width="220" />
+    <a href="images/.png">
+      <img src="images/.png" width="220" />
     </a><br>
     <sub>AAV-injection in Bregma: ~ -5.40. Locus Coeruleus is labelled with Anti-TH 647</sub>
   </td>
