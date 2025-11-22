@@ -114,4 +114,15 @@
     <sub>Main connections of the Olfactory Pathway revealed by Light-sheet microscopy. AAV9-hSyn-EGFP injection in the Olfactory Bulb in a ChaT-tdTomato mouse</sub>
   </td>
 </tr>
+
+<tr>
+  <td align="center" width="220">
+    <h4>Astrocytic Calcium Waves</h4>
+    <a href="images/ast.gif">
+      <img src="images/ast.png" width="220" />
+    </a><br>
+    <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin</sub>
+  </td>
+ 
+</tr>
 </table>
