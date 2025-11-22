@@ -73,7 +73,7 @@
     <a href="images/inj.png">
       <img src="images/inj.png" width="220" />
     </a><br>
-    <sub>AAV-injection (Br: ~ -5.40). Locus Coeruleus (magenta) labelled with Anti-TH. Thaks to Elysa Crozat</sub>
+    <sub>AAV-injection (Br: ~ -5.40). Locus Coeruleus (magenta) labelled with Anti-TH. Thanks to Elysa Crozat</sub>
   </td>
 </tr>
 
@@ -121,7 +121,7 @@
     <a href="images/ast.gif">
       <img src="images/ast.png" width="220" />
     </a><br>
-    <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin. Thaks to Candela González-Arias</sub>
+    <sub>Calcium waves in cortical astrocytes (GCaMP6) responding to serotonin. Thanks to Candela González-Arias</sub>
   </td>
  
 </tr>
