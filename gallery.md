@@ -90,7 +90,7 @@
     <a href="images/dend_LGI1.png">
       <img src="images/dend_LGI1.png" width="220" />
     </a><br>
-    <sub>LGI1 (magenta) in dendritic spines of a CA3 Pyramidal neuron (Green). Single Cell Electroporation (SCE) of a CA3 Pyramidal neuron with a plasmid expressing LGI1 and GFP. SCE by Johanna Extrémet</sub>
+    <sub>LGI1 (magenta) in dendritic spines of a CA3 Pyramidal neuron (Green). Single Cell Electroporation by Johanna Extrémet</sub>
   </td>
   <td align="center" width="220">
     <h4>Substantia Nigra, Midbrain</h4>
