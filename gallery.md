@@ -1,4 +1,4 @@
-# Portraits of the Nervious System
+# Portraits of the Nervous System
 
 <table>
 <tr>
