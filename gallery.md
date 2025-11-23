@@ -170,6 +170,13 @@
     </a><br>
     <sub>After AAV-mCherry Injection in the Raphe nucleus (magenta), SERT is labelled in the prefrontal cortex (green)</sub>
   </td>
+  <td align="center" width="220">
+    <h4>Astrocytes</h4>
+    <a href="images/ast2.png">
+      <img src="images/ast2.png" width="220" />
+    </a><br>
+    <sub>Hippocmpal astrocytes (GFAP, yellow) in the Dentate Gyrus</sub>
+  </td>
 
 </tr>
 </table>
