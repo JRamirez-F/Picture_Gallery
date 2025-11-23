@@ -182,5 +182,15 @@
     <sub>All-cells Cellpose-based segmentation in a caudal Rhombencephalic slice (Br~ -7.5). Approx 68.000 cells</sub>
   </div>
 
+  <!-- Card 21 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>CA1 Dendrites</h3>
+    <a href="images/tuj1.png">
+      <img src="images/tuj1.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Dendrites of CA1 pyramidal neurons revealed with anti b-Tubulin III (aka Tuj1, chartreuse)</sub>
+  </div>
+
+
 </div>
  
