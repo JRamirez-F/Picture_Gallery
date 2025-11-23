@@ -175,7 +175,7 @@
     <a href="images/ast2.png">
       <img src="images/ast2.png" width="220" />
     </a><br>
-    <sub>Hippocmpal astrocytes (GFAP, yellow) in the Dentate Gyrus</sub>
+    <sub>Hippocmpal astrocytes (GFAP, cyan) in the Dentate Gyrus</sub>
   </td>
 
 </tr>
