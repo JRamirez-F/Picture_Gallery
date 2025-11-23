@@ -163,6 +163,13 @@
     </a><br>
     <sub>Dendrites of CA1 pyramidal neurons revealed with anti b-Tubulin III (aka Tuj1, chartreuse)</sub>
   </td>
+  <td align="center" width="220">
+    <h4>Axons</h4>
+    <a href="images/axns.png">
+      <img src="images/axns.png" width="220" />
+    </a><br>
+    <sub>After AAV-mCherry Injection in the Raphe nucleus (magenta), SERT is labelled in the prefrontal cortex (green)</sub>
+  </td>
 
 </tr>
 </table>
