@@ -208,6 +208,15 @@
     </a><br>
     <sub>Hippocmpal astrocytes (GFAP, cyan) in the Dentate Gyrus</sub>
   </div>
-
+  
+  <!-- Card 24 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Cerebellum</h3>
+    <a href="images/cbllum.png">
+      <img src="images/cbllum.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Cerebellar folia stained against GFAP (spring green) and GluA2 (indigo)</sub>
+  </div>
+    
 </div>
  
