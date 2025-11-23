@@ -145,5 +145,13 @@
     </a><br>
     <sub>Kv2.1 (green) labels pyramidal neurons of Anterior Cingulate/Prelimbic Cortex. Anlyrin G in magenta</sub>
   </td>
+   </td>
+    <td align="center" width="220">
+    <h4>Cells in the Rhombencephalon</h4>
+    <a href="images/Labels.png">
+      <img src="images/Labels.png" width="220" />
+    </a><br>
+    <sub>All-cells Cellpose-based segmentation in a caudal Rhombencephalic slice (Br~ -7.5)</sub>
+  </td>
 </tr>
 </table>
