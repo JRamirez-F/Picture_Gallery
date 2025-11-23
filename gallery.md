@@ -175,7 +175,7 @@
     <a href="images/ast2.png">
       <img src="images/ast2.png" width="220" />
     </a><br>
-    <sub>Hippocmpal astrocytes (GFAP, cyan) in the Dentate Gyrus</sub>
+    <sub>Hippocmpal astrocytes (GFAP, cyan) in the Dentate Gyrus. In collaboration with Salvatore Incontro</sub>
   </td>
     <td align="center" width="220">
     <h4>Cerebellum</h4>
