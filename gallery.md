@@ -184,6 +184,14 @@
     </a><br>
     <sub>Cerebellar folia stained against GFAP (spring green) and GluA2 (indigo)</sub>
   </td>
+    </td>
+    <td align="center" width="220">
+    <h4>Microglia and Astrocytes</h4>
+    <a href="images/mic_ast.png">
+      <img src="images/mic_ast.png" width="220" />
+    </a><br>
+    <sub>Microglia (magenta, Iba1) and Astrocytes (Melanopsin + mCherry) in CA1 after performing some parch clamp in the slice. Thanks to Sara Mederos</sub>
+  </td>
 
 </tr>
 </table>
