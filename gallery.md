@@ -151,7 +151,7 @@
     <a href="images/Labels.png">
       <img src="images/Labels.png" width="220" />
     </a><br>
-    <sub>All-cells Cellpose-based segmentation in a caudal Rhombencephalic slice (Br~ -7.5)</sub>
+    <sub>All-cells Cellpose-based segmentation in a caudal Rhombencephalic slice (Br~ -7.5). Aprox 68000 cells</sub>
   </td>
 </tr>
 </table>
