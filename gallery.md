@@ -190,7 +190,7 @@
     <a href="images/mic_ast.png">
       <img src="images/mic_ast.png" width="220" />
     </a><br>
-    <sub>Microglia (magenta, Iba1) and Astrocytes (Melanopsin + mCherry) in CA1 after performing some patch clamp in the slice. Thanks to Sara Mederos</sub>
+    <sub>Microglia (magenta, Iba1) and Astrocytes (Green, Melanopsin + mCherry) in CA1 after performing some patch clamp in the slice. Thanks to Sara Mederos</sub>
   </td>
 
 </tr>
