@@ -236,6 +236,5 @@
     <sub>CSF-contacting neurons labelled (tdTomato) trespass the ependymal cell layer at the Thoracic medullo-spinal Central Canal</sub>
   </div>
 
-CSF-contacting neurons labelled (tdTomato) trespass the ependymal cell layer at the Thoracic medullo-spinal Central Canal
 </div>
  
