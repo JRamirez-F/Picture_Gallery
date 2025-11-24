@@ -192,6 +192,15 @@
     </a><br>
     <sub>Microglia (magenta, Iba1) and Astrocytes (Green, Melanopsin + mCherry) in CA1 after performing some patch clamp in the slice. Thanks to Sara Mederos</sub>
   </td>
-
 </tr>
+<tr>
+  <td align="center" width="220">
+    <h4>CSF-contacting Neurons</h4>
+    <a href="images/csfcns.png">
+      <img src="images/csfcns.png" width="220" />
+    </a><br>
+    <sub>CSF-contacting neurons labelled (tdTomato) trespass the ependymal cell layer at the Thoracic medullo-spinal Central Canal</sub>
+  </td>
+</tr>
+
 </table>
