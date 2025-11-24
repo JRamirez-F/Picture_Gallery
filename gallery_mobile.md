@@ -279,5 +279,13 @@
       <img src="images/chol.png" style="width:100%; max-width:220px;" />
     </a><br>
     <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and Cortical Interneurons are visible</sub>
-  </div>
+  </div>  
   
+  <!-- Card 32 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Endothelial Cells</h3>
+    <a href="images/endot.png">
+      <img src="images/endot.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Endothelial cells artefactually labeled with a secondary Antibody after a Mouse on Mouse IHF</sub>
+  </div>
