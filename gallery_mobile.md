@@ -247,11 +247,11 @@
   
   <!-- Card 28 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h3>Large Dense-Core Vesicle</h3>
+    <h3>Large Dense-Core Vesicle (animated)</h3>
     <a href="images/eye_anim.gif">
       <img src="images/eye.png" style="width:100%; max-width:220px;" />
     </a><br>
-    <sub>LDCV at a contact between 2 cultured neurons. Labels overlay of small vesicles generated with cellpose-SAM</sub>
+    <sub>Cleared mouse eye in a Light-sheet microscope. Some PKD2L1 positive cells are seen in the retina. Probably Müller glia</sub>
   </div>
 
 </div>
