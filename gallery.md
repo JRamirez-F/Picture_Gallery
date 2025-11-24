@@ -220,7 +220,7 @@
     <a href="images/CA3.png">
       <img src="images/CA3.png" width="220" />
     </a><br>
-    <sub>CA3 Neuron transfected with tdTom (Cyan) and labeled against AnkyrinG. Dendritic-spine like structures are visible at the AIS</sub>
+    <sub>CA3 Neuron transfected with tdTom (Cyan) and labeled against AnkyrinG. Dendritic spines-like structures are visible at the AIS</sub>
   </td>
 </tr>
 
