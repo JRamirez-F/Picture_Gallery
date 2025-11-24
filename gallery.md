@@ -247,6 +247,13 @@
     </a><br>
     <sub>Endothelial cells artefactually labeled with a secondary Antibody after a Mouse on Mouse IHF</sub>
   </td>
+   <td align="center" width="220">
+    <h4>Chromogranin B</h4>
+    <a href="images/crgrb.png">
+      <img src="images/crgrb.png" width="220" />
+    </a><br>
+    <sub>Ani-ChromograninB IHF in the hippocampus (Cyan hot) revealing intensee staining in the hilar region and CA3 stratum lucidum (mossy fibers)</sub>
+  </td>
 </tr>
 
 
