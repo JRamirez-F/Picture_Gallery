@@ -235,10 +235,10 @@
 <tr>
  <td align="center" width="220">
     <h4>The Cholinergic Brain</h4><h6>Animated</h6>
-    <a href="images/.gif">
-      <img src="images/.png" width="220" />
+    <a href="images/chol.gif">
+      <img src="images/chol.png" width="220" />
     </a><br>
-    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and cortical interneurons are visible</sub>
+    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and Cortical Interneurons are visible</sub>
   </td> 
 </tr>
 
