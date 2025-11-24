@@ -210,8 +210,8 @@
   </td>
   <td align="center" width="220">
     <h4>The Eye</h4><h6>Animated</h6>
-    <a href="images/Olf.gif">
-      <img src="images/Olf_tn.png" width="220" />
+    <a href="images/eye_anim.gif">
+      <img src="images/eye.png" width="220" />
     </a><br>
     <sub>Cleared mouse eye in a Light-sheet microscope. Some PKD2L1 positive cells are seen in the retina. Probably Müller glia</sub>
   </td>
