@@ -215,6 +215,13 @@
     </a><br>
     <sub>Cleared mouse eye in a Light-sheet microscope. Some PKD2L1 positive cells are seen in the retina. Probably Müller glia</sub>
   </td>
+    <td align="center" width="220">
+    <h4>CA3 Neuron. Organotypic slice</h4>
+    <a href="images/CA3.png">
+      <img src="images/CA3.png" width="220" />
+    </a><br>
+    <sub>CA3 Neuron transfected with tdTom (Cyan) and labeled against AnkyrinG. Dendritic-spine like structures are visible at the AIS</sub>
+  </td>
 </tr>
 
 </table>
