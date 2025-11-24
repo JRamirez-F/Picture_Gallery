@@ -247,12 +247,37 @@
   
   <!-- Card 28 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h3>Large Dense-Core Vesicle (animated)</h3>
+    <h3>The Eye (animated)</h3>
     <a href="images/eye_anim.gif">
       <img src="images/eye.png" style="width:100%; max-width:220px;" />
     </a><br>
     <sub>Cleared mouse eye in a Light-sheet microscope. Some PKD2L1 positive cells are seen in the retina. Probably Müller glia</sub>
   </div>
 
-</div>
- 
+ <!-- Card 29 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>CA3 Neuron. Organotypic slice</h3>
+    <a href="images/CA3.png">
+      <img src="images/CA3.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>CA3 Neuron transfected with tdTom (Cyan) and labeled against AnkyrinG. Dendritic spines-like structures are visible at the AIS</sub>
+  </div>
+
+ <!-- Card 30 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Thorns</h3>
+    <a href="images/Thorns.png">
+      <img src="images/Thorns.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>CA3 thorny excrescences are postsynaptic specializations that allow CA3 pyramidal cells to non-linearly integrate mossy-fiber inputs</sub>
+  </div> 
+  
+  <!-- Card 31 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>The Cholinergic Brain (animated)</h3>
+    <a href="images/chol.gif">
+      <img src="images/chol.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and Cortical Interneurons are visible</sub>
+  </div>
+  
