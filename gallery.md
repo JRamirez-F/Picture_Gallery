@@ -107,7 +107,7 @@
     <sub>Motor neurons in the Ventral  Hord of the Spinal Cord. Mouse model ChAT-tdTomato</sub>
   </td>
   <td align="center" width="220">
-    <h4>The Olfactory Brain</h4>
+    <h4>The Olfactory Brain</h4><h6>Animated</h6>
     <a href="images/Olf.gif">
       <img src="images/Olf_tn.png" width="220" />
     </a><br>
@@ -117,7 +117,7 @@
 
 <tr>
   <td align="center" width="220">
-    <h4>Astrocytic Calcium Waves</h4>
+    <h4>Astrocytic Calcium Waves</h4><h6>Animated</h6>
     <a href="images/ast.gif">
       <img src="images/ast.png" width="220" />
     </a><br>
@@ -207,6 +207,13 @@
       <img src="images/ldcv.png" width="220" />
     </a><br>
     <sub>LDCV at a contact between 2 cultured neurons. Labels overlay of small vesicles generated with cellpose-SAM</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>The Eye</h4><h6>Animated</h6>
+    <a href="images/Olf.gif">
+      <img src="images/Olf_tn.png" width="220" />
+    </a><br>
+    <sub>Cleared mouse eye in a Light-sheet microscope. Some PKD2L1 positive cells are seen in the retina. Probably Müller glia</sub>
   </td>
 </tr>
 
