@@ -238,7 +238,7 @@
     <a href="images/.gif">
       <img src="images/.png" width="220" />
     </a><br>
-    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and interneurons are visible</sub>
+    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and cortical interneurons are visible</sub>
   </td> 
 </tr>
 
