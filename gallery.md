@@ -222,6 +222,13 @@
     </a><br>
     <sub>CA3 Neuron transfected with tdTom (Cyan) and labeled against AnkyrinG. Dendritic spines-like structures are visible at the AIS</sub>
   </td>
+    <td align="center" width="220">
+    <h4>Thorns</h4>
+    <a href="images/Thorns.png">
+      <img src="images/Thorns.png" width="220" />
+    </a><br>
+    <sub>CA3 thorny excrescences are postsynaptic specializations that allow CA3 pyramidal cells to non-linearly integrate mossy-fiber inputs</sub>
+  </td>
 </tr>
 
 </table>
