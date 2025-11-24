@@ -236,5 +236,14 @@
     <sub>CSF-contacting neurons labelled (tdTomato) trespass the ependymal cell layer at the Thoracic medullo-spinal Central Canal</sub>
   </div>
 
+  <!-- Card 27 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Large Dense-Core Vesicle</h3>
+    <a href="images/ldcv.png">
+      <img src="images/ldcv.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>LDCV at a contact between 2 cultured neurons. Labels overlay of small vesicles generated with cellpose-SAM</sub>
+  </div>
+
 </div>
  
