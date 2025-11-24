@@ -175,14 +175,14 @@
     <a href="images/ast2.png">
       <img src="images/ast2.png" width="220" />
     </a><br>
-    <sub>Hippocmpal astrocytes (GFAP, cyan) in the Dentate Gyrus. In collaboration with Salvatore Incontro</sub>
+    <sub>Hippocmpal astrocytes (GFAP, cyan) in the Dentate Gyrus.</sub>
   </td>
     <td align="center" width="220">
     <h4>Cerebellum</h4>
     <a href="images/cbllum.png">
       <img src="images/cbllum.png" width="220" />
     </a><br>
-    <sub>Cerebellar folia stained against GFAP (spring green) and GluA2 (indigo)</sub>
+    <sub>Cerebellar folia stained against GFAP (spring green) and GluA2 (indigo). In collaboration with Salvatore Incontro</sub>
   </td>
     </td>
     <td align="center" width="220">
