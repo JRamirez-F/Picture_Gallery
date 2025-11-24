@@ -193,6 +193,7 @@
     <sub>Microglia (magenta, Iba1) and Astrocytes (Green, Melanopsin + mCherry) in CA1 after performing some patch clamp in the slice. Thanks to Sara Mederos</sub>
   </td>
 </tr>
+
 <tr>
   <td align="center" width="220">
     <h4>CSF-contacting Neurons</h4>
@@ -230,5 +231,16 @@
     <sub>CA3 thorny excrescences are postsynaptic specializations that allow CA3 pyramidal cells to non-linearly integrate mossy-fiber inputs</sub>
   </td>
 </tr>
+
+<tr>
+ <td align="center" width="220">
+    <h4>The Cholinergic Brain</h4><h6>Animated</h6>
+    <a href="images/.gif">
+      <img src="images/.png" width="220" />
+    </a><br>
+    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and interneurons are visible</sub>
+  </td> 
+</tr>
+
 
 </table>
