@@ -227,5 +227,15 @@
     <sub>Microglia (magenta, Iba1) and Astrocytes (Melanopsin + mCherry) in CA1 after performing some parch clamp in the slice. Thanks to Sara Mederos</sub>
   </div>
 
+<!-- Card 26 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>CSF-contacting Neurons</h3>
+    <a href="images/csfcns.png">
+      <img src="images/csfcns.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>CSF-contacting neurons labelled (tdTomato) trespass the ependymal cell layer at the Thoracic medullo-spinal Central Canal</sub>
+  </div>
+
+CSF-contacting neurons labelled (tdTomato) trespass the ependymal cell layer at the Thoracic medullo-spinal Central Canal
 </div>
  
