@@ -261,6 +261,13 @@
     </a><br>
     <sub>Sparsely labeled Layer V Cortical neurons after ICV infection with AAV9-mSCarlett at P0</sub>
   </td>
+   <td align="center" width="220">
+    <h4>Traces</h4>
+    <a href="images/traces.png">
+      <img src="images/traces.png" width="220" />
+    </a><br>
+    <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and overlayd over original image</sub>
+  </td>
 </tr>
 
 
