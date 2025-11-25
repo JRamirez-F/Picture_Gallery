@@ -299,3 +299,12 @@
     <sub>Anti-ChromograninB IHF in the hippocampus (Cyan hot) revealing intensee staining in the hilar region and CA3 stratum lucidum (mossy fibers). Epifluorescence microscopy</sub>
   </div>
 
+  <!-- Card 34 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Layer V Cortical Neurons</h3>
+    <a href="images/crgrb.png">
+      <img src="images/crgrb.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Sparsely labeled Layer V Cortical neurons after ICV infection with AAV9-mSCarlett at P0</sub>
+  </div>
+
