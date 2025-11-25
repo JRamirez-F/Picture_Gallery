@@ -273,10 +273,10 @@
 <tr>
  <td align="center" width="220">
     <h4>Docking</h4>
-    <a href="images/.png">
-      <img src="images/chol.png" width="220" />
+    <a href="images/docked.png">
+      <img src="images/docked.png" width="220" />
     </a><br>
-    <sub>Cleared brain of ChaT-tdTomato mouse under a Light-sheet microscope. Fornix, Cholinergic nuclei and Cortical Interneurons are visible</sub>
+    <sub>Synaptic vesicles docked to the plasma membrane in cultured Cerebellar Granule Neurons</sub>
   </td>
 
 
