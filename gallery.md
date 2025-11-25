@@ -283,7 +283,7 @@
     <a href="images/cxsp.png">
       <img src="images/cxsp.png" width="220" />
     </a><br>
-    <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution (Confocal,0.5mm WD objective). AAV-hSyn-eFGP in Motor Cortex.</sub>
+    <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
   </td>
 
 
