@@ -266,7 +266,7 @@
     <a href="images/traces.png">
       <img src="images/traces.png" width="220" />
     </a><br>
-    <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and overlayd over original image</sub>
+    <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and labels overlay on top of original image</sub>
   </td>
 </tr>
 
