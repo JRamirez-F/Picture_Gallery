@@ -252,7 +252,7 @@
     <a href="images/crgrb.png">
       <img src="images/crgrb.png" width="220" />
     </a><br>
-    <sub>Ani-ChromograninB IHF in the hippocampus (Cyan hot) revealing intensee staining in the hilar region and CA3 stratum lucidum (mossy fibers)</sub>
+    <sub>Anti-ChromograninB IHF in the hippocampus (Cyan hot) revealing intensee staining in the hilar region and CA3 stratum lucidum (mossy fibers). Epifluorescence microscopy</sub>
   </td>
 </tr>
 
