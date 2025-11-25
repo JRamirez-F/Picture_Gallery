@@ -319,11 +319,11 @@
 
   <!-- Card 37 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h3>Corticospinal Tract</h3>
+    <h3>Docking</h3>
     <a href="images/docked.png">
       <img src="images/docked.png" style="width:100%; max-width:220px;" />
     </a><br>
-    <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and labels overlay on top of original image</sub>
+    <sub>Synaptic vesicles docked to the plasma membrane in cultured Cerebellar Granule Neurons</sub>
   </div>
   
   <!-- Card 38 -->
