@@ -316,3 +316,26 @@
     </a><br>
     <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and labels overlay on top of original image</sub>
   </div>
+
+  <!-- Card 37 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Corticospinal Tract</h3>
+    <a href="images/docked.png">
+      <img src="images/docked.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and labels overlay on top of original image</sub>
+  </div>
+  
+  <!-- Card 38 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Corticospinal Tract</h3>
+    <a href="images/cxsp.png">
+      <img src="images/cxsp.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
+  </div>
+
+
+
+  </td>
+
