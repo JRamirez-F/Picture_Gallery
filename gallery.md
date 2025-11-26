@@ -280,8 +280,8 @@
   </td>
    <td align="center" width="220">
     <h4>Corticospinal Tract</h4>
-    <a href="images/cxsp.png">
-      <img src="images/cxsp.png" width="220" />
+    <a href="images/cxsp_b.png">
+      <img src="images/cxsp_b.png" width="220" />
     </a><br>
     <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
   </td>
