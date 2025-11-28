@@ -303,7 +303,7 @@
     </td>
      <td align="center" width="220">
     <h4>Synaptosome</h4>
-    <a href="images/sptsomepng">
+    <a href="images/sptsome.png">
       <img src="images/sptsome.png" width="220" />
     </a><br>
     <sub>Cortical synaptosome at the electron microscope. The remaining postsynapse is still attached to the presynaptic terminal.</sub>
