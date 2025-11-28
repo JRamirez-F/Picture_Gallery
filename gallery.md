@@ -317,7 +317,7 @@
     <a href="images/phl.gif">
       <img src="images/phl_thumb.png" width="220" />
     </a><br>
-    <sub>pHluorins allow measurements of the synaptic vesicle cycle in real time, shoing exocytosis as a net increase in fluorescence</sub>
+    <sub>pHluorins allow measurements of the Synaptic Vesicle's cycle in real time, showing exocytosis as a net increase in fluorescence</sub>
   </td>
 
 </tr>
