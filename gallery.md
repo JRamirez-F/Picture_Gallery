@@ -285,7 +285,13 @@
     </a><br>
     <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
   </td>
-
+     <td align="center" width="220">
+    <h4>Patch clamp</h4>
+    <a href="images/Patch_clamp.png">
+      <img src="images/Patch_clamp.png" width="220" />
+    </a><br>
+    <sub>Patch clamp in Prefrontal Cortex with recording electrode in Layer II/III, stimulation electrode in Layer V and puff pipette</sub>
+  </td>
 
 </tr>
 
