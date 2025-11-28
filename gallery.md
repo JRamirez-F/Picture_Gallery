@@ -300,8 +300,14 @@
     </a><br>
     <sub>Stereotactic injection of AAV9-hSyn-ChrimsonR-tdTom in Raphe nucleus (magenta). SERT is labelled in cyan.</sub>
   </td>
-
-
+    </td>
+     <td align="center" width="220">
+    <h4>Synaptosome</h4>
+    <a href="images/sptsomepng">
+      <img src="images/sptsome.png" width="220" />
+    </a><br>
+    <sub>Cortical synaptosome at the electron microscope. The remaining postsynapse is still attached to the presynaptic terminal.</sub>
+  </td>
 </tr>
 
 
