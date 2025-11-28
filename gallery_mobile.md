@@ -335,6 +335,15 @@
     <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
   </div>
 
+    <!-- Card 39 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Patch clamp</h3>
+    <a href="images/Patch_clamp.png">
+      <img src="images/Patch_clamp.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>xxxx</sub>
+  </div>
+
     <!-- Card 40 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Raphe Nucleus</h3>
