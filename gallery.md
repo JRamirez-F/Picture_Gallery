@@ -290,8 +290,17 @@
     <a href="images/Patch_clamp.png">
       <img src="images/Patch_clamp.png" width="220" />
     </a><br>
-    <sub>Patch clamp in Prefrontal Cortex with recording electrode in Layer II/III, stimulation electrode in Layer V and puff pipette</sub>
+    <sub>Patch clamp in Prefrontal Cortex with recording electrode in Layer II/III, stimulation electrode in Layer V and puff pipette.</sub>
   </td>
+  </td>
+     <td align="center" width="220">
+    <h4>Raphe Nucleus</h4>
+    <a href="images/Raphe.png">
+      <img src="images/Raphe.png" width="220" />
+    </a><br>
+    <sub>Stereotactic injection of AAV9-hSyn-ChrimsonR-tdTom in Raphe nucleus (magenta). SERT is labelled in cyan.</sub>
+  </td>
+
 
 </tr>
 
