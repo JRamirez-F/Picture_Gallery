@@ -353,5 +353,14 @@
     <sub>Stereotactic injection of AAV9-hSyn-ChrimsonR-tdTom in Raphe nucleus (magenta). SERT is labelled in cyan.</sub>
   </div>
 
+      <!-- Card 40 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Raphe Nucleus</h3>
+    <a href="images/phl.gif">
+      <img src="images/phl_thumb.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>pHluorins allow measurements of the synaptic vesicle cycle in real time, shoing exocytosis as a net increase in fluorescence.</sub>
+  </div>
+
   </td>
 
