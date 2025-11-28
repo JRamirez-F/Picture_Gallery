@@ -341,7 +341,7 @@
     <a href="images/Patch_clamp.png">
       <img src="images/Patch_clamp.png" style="width:100%; max-width:220px;" />
     </a><br>
-    <sub>xxxx</sub>
+    <sub>Patch clamp in Prefrontal Cortex with recording electrode in Layer II/III, stimulation electrode in Layer V and puff pipette.</sub>
   </div>
 
     <!-- Card 40 -->
