@@ -326,7 +326,13 @@
     </a><br>
     <sub>Image of a longitudinal Spinal cord slice after depth color-coding a z-stack showing the intrincate fiber system of CSF-cNs.</sub>
   </td>
-
+  <td align="center" width="220">
+    <h4>Exocytosis</h4>
+    <a href="images/omega.png">
+      <img src="images/omega.png" width="220" />
+    </a><br>
+    <sub>Full collapse of a Synaptic Vesicle in cortical synaptosomes under the electron microscope</sub>
+  </td>
 </tr>
 
 
