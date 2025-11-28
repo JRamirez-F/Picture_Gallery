@@ -317,7 +317,7 @@
     <sub>Fully automated tracing over a Pyramidal neuron performed with SNT in FIJI and labels overlay on top of original image</sub>
   </div>
 
-  <!-- Card 37 -->
+  <!-- Card 36 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Docking</h3>
     <a href="images/docked.png">
@@ -326,7 +326,7 @@
     <sub>Synaptic vesicles docked to the plasma membrane in cultured Cerebellar Granule Neurons</sub>
   </div>
   
-  <!-- Card 38 -->
+  <!-- Card 37 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Corticospinal Tract</h3>
     <a href="images/cxsp_b.png">
@@ -335,7 +335,7 @@
     <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
   </div>
 
-    <!-- Card 39 -->
+    <!-- Card 38 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Patch clamp</h3>
     <a href="images/Patch_clamp.png">
@@ -344,7 +344,7 @@
     <sub>Patch clamp in Prefrontal Cortex with recording electrode in Layer II/III, stimulation electrode in Layer V and puff pipette.</sub>
   </div>
 
-    <!-- Card 40 -->
+    <!-- Card 39 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Raphe Nucleus</h3>
     <a href="images/Raphe.png">
