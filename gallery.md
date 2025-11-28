@@ -317,7 +317,14 @@
     <a href="images/phl.gif">
       <img src="images/phl_thumb.png" width="220" />
     </a><br>
-    <sub>pHluorins allow measurements of the Synaptic Vesicle's cycle in real time, showing exocytosis as a net increase in fluorescence</sub>
+    <sub>pHluorins allow measurements of the Synaptic Vesicle's cycle in real time, showing exocytosis as a net increase in fluorescence.</sub>
+  </td>
+  <td align="center" width="220">
+    <h4>Neuronal Watercolor</h4><h6>Animated</h6>
+    <a href="images/neurons_watercolor.png">
+      <img src="images/neurons_watercolor.png" width="220" />
+    </a><br>
+    <sub>Inverted image of a longitudinal Spinal cord slice after depth color-coding of a z-stack showing CSF-cNs.</sub>
   </td>
 
 </tr>
