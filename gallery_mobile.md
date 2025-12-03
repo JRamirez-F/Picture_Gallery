@@ -335,7 +335,7 @@
     <sub>Corticospinal tract imaged in a 400um-thick cleared Spinal Cord slice at high resolution. AAV-hSyn-eFGP in Motor Cortex.</sub>
   </div>
 
-    <!-- Card 38 -->
+   <!-- Card 38 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Patch clamp</h3>
     <a href="images/Patch_clamp.png">
@@ -343,8 +343,8 @@
     </a><br>
     <sub>Patch clamp in Prefrontal Cortex with recording electrode in Layer II/III, stimulation electrode in Layer V and puff pipette.</sub>
   </div>
-
-    <!-- Card 39 -->
+  
+  <!-- Card 39 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Raphe Nucleus</h3>
     <a href="images/Raphe.png">
@@ -353,7 +353,7 @@
     <sub>Stereotactic injection of AAV9-hSyn-ChrimsonR-tdTom in Raphe nucleus (magenta). SERT is labelled in cyan.</sub>
   </div>
 
-      <!-- Card 40 -->
+  <!-- Card 40 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
     <h3>Raphe Nucleus</h3>
     <a href="images/phl.gif">
