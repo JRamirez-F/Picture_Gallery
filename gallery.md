@@ -333,7 +333,7 @@
     </a><br>
     <sub>Full collapse of a Synaptic Vesicle in cortical synaptosomes under the electron microscope</sub>
   </td>
-    <td align="center" width="220">
+  <td align="center" width="220">
     <h4>FM1-43</h4><h6>Animated</h6>
     <a href="images/images/FM1_43.gif">
       <img src="images/images/FM1_43_tn.png" width="220" />
