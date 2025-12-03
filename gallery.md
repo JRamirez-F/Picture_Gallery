@@ -338,7 +338,7 @@
     <a href="images/FM1_43.gif">
       <img src="images/FM1_43_tn.png" width="220" />
     </a><br>
-    <sub>FM1-43 is an amphipatic molecule that allows, similarly to pHluorins, to measure exocytosis in real time in live neurons. Here, cerebellar granule neurons' synapses.</sub>
+    <sub>FM1-43 is an amphipatic molecule allowing, similar to pHluorins, to measure exocytosis in real time. Here, live cerebellar granule neurons' synapses.</sub>
   </td>
 </tr>
 
