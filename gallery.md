@@ -335,8 +335,8 @@
   </td>
   <td align="center" width="220">
     <h4>FM1-43</h4><h6>Animated</h6>
-    <a href="images/images/FM1_43.gif">
-      <img src="images/images/FM1_43_tn.png" width="220" />
+    <a href="images/FM1_43.gif">
+      <img src="images/FM1_43_tn.png" width="220" />
     </a><br>
     <sub>FM1-43 is an amphipatic molecule that allows, similarly to pHluorins, to measure exocytosis in real time in live neurons. Here, cerebellar granule neurons' synapses.</sub>
   </td>
