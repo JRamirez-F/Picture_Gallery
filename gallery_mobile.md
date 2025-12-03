@@ -355,12 +355,31 @@
 
   <!-- Card 40 -->
   <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
-    <h3>Raphe Nucleus</h3>
+    <h3>VGluT1-pHluorin</h3>
     <a href="images/phl.gif">
       <img src="images/phl_thumb.png" style="width:100%; max-width:220px;" />
     </a><br>
     <sub>pHluorins allow measurements of the synaptic vesicle cycle in real time, shoing exocytosis as a net increase in fluorescence.</sub>
   </div>
+
+  <!-- Card 41 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Lights in the Spinal Cord</h3>
+    <a href="images/csfcns_fluo.png">
+      <img src="images/csfcns_fluo.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Image of a longitudinal Spinal cord slice after depth color-coding a z-stack showing the intrincate fiber system of CSF-cNs.</sub>
+  </div>
+  
+  <!-- Card 42 -->
+  <div style="margin:10px; text-align:center; width:220px; max-width:100%;">
+    <h3>Exocytosis</h3>
+    <a href="images/omega.png">
+      <img src="images/omega.png" style="width:100%; max-width:220px;" />
+    </a><br>
+    <sub>Image of a longitudinal Spinal cord slice after depth color-coding a z-stack showing the intrincate fiber system of CSF-cNs.</sub>
+  </div>
+
 
   </td>
 
